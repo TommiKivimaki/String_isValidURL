@@ -1,6 +1,6 @@
 # String_isValidURL
 
-Checks if a string conforms to there URL formats:
+Checks if a string conforms to these URL schemes:
 
 * http://tommikivimaki.com
 * https://tommikivimaki.com 
