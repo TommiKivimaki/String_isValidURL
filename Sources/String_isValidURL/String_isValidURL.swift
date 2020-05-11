@@ -1,7 +1,7 @@
 import Foundation
 
 extension String {
-  /// Checks if a string conforms to URL formats:
+  /// Checks if a string conforms to these URL schemes:
   /// * http://tommikivimaki.com
   /// * https://tommikivimaki.com
   /// * http://www.tommikivimaki.com
