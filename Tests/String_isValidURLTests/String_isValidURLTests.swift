@@ -11,6 +11,7 @@ final class String_isValidURLTests: XCTestCase {
       
       XCTAssertFalse("htp://tommikivimaki.com".isValidURL())
       XCTAssertFalse("http:/tommikivimaki.com".isValidURL())
+      XCTAssertFalse("".isValidURL())
     }
 
     static var allTests = [
